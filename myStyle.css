@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    font-size: 50px;
+}
+
+h1,h2{
+    color: blueviolet;
+}
+#abc{
+    color: green;
+}
+.xyz{
+    color: greenyellow;
+}
+body{
+    background-color: aqua;
+}
